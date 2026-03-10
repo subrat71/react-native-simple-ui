@@ -1,5 +1,5 @@
 {
-  "name": "rn-ui-kit",
+  "name": "@subrat71/rn-ui-kit",
   "version": "0.1.0",
   "description": "This is a simple react native ui elements package to faster your development process.",
   "main": "./lib/module/index.js",
